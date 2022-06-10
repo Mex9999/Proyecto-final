@@ -1,5 +1,5 @@
 # Proyecto-final
-nicio
+Inicio
 
 El programa presentara un menu interactivo en el cual se podra seleccionar alguna de las siguientes opciones
 
